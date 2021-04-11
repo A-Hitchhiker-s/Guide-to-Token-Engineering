@@ -24,6 +24,16 @@ The chapter starts off with a general overview of
 
 ## Chapter 4 Token Model Generation
 
+Business Model Generation, Lean Startup Methodology, Design Thinking - all have one common denominator: take apart your idea into its key assumptions, and validate those assumptions with stakeholders and with as little time and money as possible in order to be agile. This design principle works wonders when it meets in the sweat spot of continuous delivery in software development. Token Model Generation fully buys in into the principles of hypothesis-driven development, and the agile manifesto. We refer to it as experiment-driven design & development. We are fully aware of "dark agile" and "dark scrum" and focus on avoiding falling back into command-and-control execution of linear plans.
+
+Yet we acknowledge that we are building critical, public, decentralized infrastructure at global scale - once the token smart contracts are deployed on mainnet. We add to the mix Systems Thinking meshed with Computer-aided Design. This addition helps us to make visible the counter-intuitive dynamics of complex adaptive systems in computer simulations way before any development or changes need to be implemented. The Computer-aided Design tools we address in this chapter also enable data-driven optimization of the designed system dynamics and (multi-)agent-based models. 
+
+Furthermore there are some networks, which require more human deliberation and coordination. Sometimes, even educational onboarding. From experience these networks are the most impactful, but hardest to get off the ground. Hence we designed a course as part of this chapter, which synthesizes most useful aspects of design canvases to help formulate key assumptions: purpose (or objective function) of the token network, about its participants and their incentives for participation, which are intrinsic, extrinsic and systemic (internalized extrinsic incentives). 
+
+
+Participants have incentives which are intrinsic, through environment design we can add internalized extrinsic incentives as well as incentive mechanisms that we design which make up the extrinsic incentives. The dynamics between participants and the environment
+
+
 ## Chapter 5 Privacy-preserving, Participatory Architectures
 
 ## Chapter 6 SecDevOps in Token Networks
